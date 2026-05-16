@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bangarukondabollapally)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://bangarukondabollapally.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bollapallybangarukonda@gmail.com)
 
 </div>
 
@@ -105,7 +105,7 @@ Remote AI Engineer internships. I'm most useful on teams building LLM-powered ap
 
 If you're working on something interesting, reach out — I'm quick to pick up new tools and unafraid of hard problems.
 
-📬 **[your@email.com](mailto:your@email.com)**
+📬 **[Mail](mailto:bollapallybangarukonda@gmail.com)**
 💼 **[LinkedIn](https://linkedin.com/in/bangarukondabollapally)**
 
 ---
