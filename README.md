@@ -37,27 +37,58 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 
 ## Featured Projects
 
-### 🔗 Smart Professional Email Generator
-> LangChain + Groq (Llama 3.3 70B) + Streamlit
+### 🏙️ AI City Assistant
+> LangChain · Groq · Tavily · Streamlit
 
-Built a context-aware email generator that goes beyond simple templates. Uses a structured LangChain prompt pipeline that adapts tone and content based on recipient type — HR, manager, peer, junior. The goal was to explore how much real utility you can get out of a focused prompt architecture without RAG or fine-tuning.
+A multi-tool AI assistant that answers real-time city queries by combining live weather data and news search into a single conversational interface. Built tool-use patterns from scratch — each tool is independently callable, and the LangChain agent decides which to invoke based on the query. Good example of agentic routing over multiple APIs.
 
-`LangChain` `Groq API` `Llama 3.3 70B` `Streamlit` `Python` `Prompt Engineering`
+`LangChain` `Groq` `Tavily` `Streamlit` `Tool Use` `Python`
+
+[View Project →](https://github.com/bangarukondabollapally/ai-city-assistant)
+
+---
+
+### 📄 RAG Document Assistant
+> LangChain · HuggingFace Embeddings · ChromaDB · Streamlit
+
+Upload any PDF and ask questions in plain language — the system retrieves semantically relevant chunks using MMR retrieval before passing context to the LLM. This is the most technically layered project in the set: embedding pipeline, vector store, retrieval strategy, and generation are all wired together end-to-end.
+
+`LangChain` `HuggingFace` `ChromaDB` `RAG` `MMR Retrieval` `Streamlit`
+
+[View Project →](https://github.com/bangarukondabollapally/rag-document-assistant)
+
+---
+
+### ✉️ Smart Email Generator
+> LangChain · Groq (Llama 3.3 70B) · Streamlit
+
+Generates professional emails that adapt tone and structure to the recipient type — HR, manager, peer, or junior. Focused on what you can squeeze out of a well-engineered prompt chain before reaching for RAG or fine-tuning.
+
+`LangChain` `Groq` `Prompt Engineering` `Streamlit`
 
 [View Project →](https://github.com/bangarukondabollapally/smart-email-generator)
 
 ---
 
-### 🩺 Kawasaki Disease Risk Prediction System
-> MGWO Feature Selection + Weighted Ensemble + Flask
+### 📝 AI Cover Letter Generator
+> LangChain · Groq · Pydantic · Streamlit
 
-A medical ML system that predicts Kawasaki Disease risk from patient data. Used Modified Grey Wolf Optimization (a nature-inspired metaheuristic) to select the 12 most predictive features from a larger set, then combined Gradient Boosting and AdaBoost into a custom weighted ensemble. Deployed with a Flask frontend for real-time predictions.
+Generates tailored cover letters from job descriptions. Pydantic handles structured output validation — the LLM response is parsed into typed fields rather than raw text, which makes downstream rendering clean and reliable.
 
-This one pushed me into serious ML territory — feature optimization algorithms, ensemble weighting strategies, and model serialization for deployment.
+`LangChain` `Groq` `Pydantic` `Structured Output` `Streamlit`
 
-`scikit-learn` `MGWO` `Gradient Boosting` `AdaBoost` `Flask` `Python`
+[View Project →](https://github.com/bangarukondabollapally/ai-cover-letter-generator)
 
-[View Project →](https://github.com/bangarukondabollapally/kawasaki-disease-ensemble-diagnosis)
+---
+
+### 🗓️ AI Task Planner
+> LangChain · Groq · Pydantic · Streamlit
+
+Turns a goal or project description into a structured roadmap with prioritized tasks. Uses Pydantic models to enforce consistent output structure — the LLM can't return a freeform blob, it has to conform to a schema.
+
+`LangChain` `Groq` `Pydantic` `Roadmap Generation` `Streamlit`
+
+[View Project →](https://github.com/bangarukondabollapally/ai-task-planner)
 
 ---
 
