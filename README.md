@@ -32,7 +32,7 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 
 ---
 
-## Tech & Tools
+## 🛠️ Tech & Tools
 
 **AI / ML Stack**
 
@@ -40,9 +40,16 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 
 `LangChain` `Groq API` `Pydantic` `HuggingFace` `ChromaDB` `FAISS` `Streamlit` `scikit-learn`
 
-**Languages & Frameworks**
+**AI Tools I Use**
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=dark)](https://skillicons.dev)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+
+**Languages & Dev Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 **Currently Learning**
 
@@ -50,6 +57,9 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 ![Agents](https://img.shields.io/badge/LLM_Agents-in_progress-8b5cf6?style=flat-square)
 ![Vector DBs](https://img.shields.io/badge/Vector_Databases-in_progress-a78bfa?style=flat-square)
 
+**Web Basics**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 ---
 
 ## 🚀 Featured Projects
@@ -144,37 +154,11 @@ Building a multi-agent research assistant with LangGraph — persistent state, t
 
 ## 📊 GitHub Stats
 
-<!-- GITHUB STATS — github-readme-stats.vercel.app (free) -->
-<!-- WHY: Recruiters check this to verify you actually code. Shows commit volume and language distribution. -->
-<!-- HOW: Replace 'bangarukondabollapally' with your username. Theme options: dark, radical, tokyonight, etc. -->
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bangarukondabollapally&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangarukondabollapally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6"/>
+<img src="https://streak-stats.demolab.com?user=bangarukondabollapally&theme=tokyonight&hide_border=true&stroke=6366f1&ring=8b5cf6&fire=a78bfa&currStreakLabel=6366f1"/>
 
 </div>
-
-<!-- STREAK STATS — streak-stats.demolab.com (free) -->
-<!-- WHY: Shows consistency. A streak counter signals daily commitment, not sporadic bursts. -->
-<!-- HOW: streak-stats.demolab.com — customize colors to match your theme -->
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bangarukondabollapally&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=a78bfa&currStreakLabel=6366f1&dates=8b8b8b)](https://git.io/streak-stats)
-
-</div>
-
-<!-- GITHUB TROPHIES — github-profile-trophy.vercel.app (free) -->
-<!-- WHY: Visual credibility. Fills whitespace. Recruiter-friendly if your stats are decent. -->
-<!-- AVOID if you have very few commits — it will highlight thin activity instead of hiding it. -->
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bangarukondabollapally&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
