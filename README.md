@@ -96,7 +96,6 @@ Turns a goal or project description into a structured roadmap with prioritized t
 
 - **RAG from scratch** — building a document Q&A pipeline using FAISS and LangChain to understand retrieval mechanics before reaching for abstractions
 - **LLM Agents** — working through tool use patterns and how to chain decisions across multi-step workflows
-- **LangSmith** — learning how to trace and evaluate LLM pipelines properly, not just "does it work"
 
 ---
 
