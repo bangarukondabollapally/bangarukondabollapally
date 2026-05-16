@@ -1,18 +1,28 @@
 <div align="center">
 
-# Hey, I'm Bangaru Konda 👋
+<!-- ANIMATED HEADER — capsule-render.vercel.app (free) -->
+<!-- WHY: First thing recruiters see. Static headers look amateur. This adds instant visual polish. -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6&height=200&section=header&text=Hey,%20I'm%20Bangaru%20Konda%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20with%20LLMs%20—%20one%20prompt,%20one%20chain,%20one%20agent%20at%20a%20time.&descAlignY=58&descSize=16)
 
-### Building things with LLMs — one prompt, one chain, one agent at a time.
+<!-- TYPING ANIMATION — readme-typing-svg.demolab.com (free) -->
+<!-- WHY: Shows multiple roles without cluttering the header. Recruiters notice it immediately. -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+LLM+Applications;LangChain+%7C+RAG+%7C+Agents;Building+real+things+with+real+models;Open+to+Remote+AI+Internships+🚀)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bangarukondabollapally)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://bangarukondabollapally.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bollapallybangarukonda@gmail.com)
+<!-- VISITOR COUNTER — komarev.com (free) -->
+<!-- WHY: Shows profile is active. Low-effort credibility signal. -->
+![Profile Views](https://komarev.com/ghpvc/?username=bangarukondabollapally&color=6366f1&style=flat&label=Profile+Views)
+
+<!-- SOCIAL BADGES — shields.io (free) -->
+<!-- WHY: Clean, clickable, professional. Better than plain links. -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bangarukondabollapally)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://bangarukondabollapally.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bollapallybangarukonda@gmail.com)
 
 </div>
 
 ---
 
-## About
+## 🧠 About
 
 I'm an AI engineering student focused on building real, working applications powered by LLMs — not just notebook experiments. My work sits at the intersection of language models, practical tooling, and clean Python.
 
@@ -22,94 +32,193 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 
 ---
 
-## Tech & Tools
+## 🛠️ Tech & Tools
 
-**AI / ML**
-`LangChain` `LangGraph` `Groq API` `OpenAI API` `Pydantic` `scikit-learn` `Pandas` `NumPy`
+<!-- SKILL ICONS — skillicons.dev (free) -->
+<!-- WHY: Visual skill icons are scannable in 2 seconds. Way better than text lists. -->
+<!-- HOW: Go to https://skillicons.dev and pick your icons -->
+
+**AI / ML Stack**
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch&theme=dark)](https://skillicons.dev)
+
+`LangChain` `LangGraph` `Groq API` `Pydantic` `HuggingFace` `ChromaDB` `FAISS` `Streamlit` `scikit-learn`
 
 **Languages & Frameworks**
-`Python` `Flask` `Streamlit` `HTML/CSS`
 
-**Currently learning**
-`RAG pipelines` `LLM Agents` `Vector databases` `LangSmith`
+[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+**Currently Learning**
+
+![RAG](https://img.shields.io/badge/RAG_Pipelines-in_progress-6366f1?style=flat-square)
+![Agents](https://img.shields.io/badge/LLM_Agents-in_progress-8b5cf6?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-exploring-a78bfa?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector_Databases-in_progress-c4b5fd?style=flat-square)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<!-- PROJECT CARDS LAYOUT -->
+<!-- WHY: Each card has a clear stack, what it does, and what's technically interesting. -->
+<!-- No two projects sound the same — recruiters notice when you copy-paste descriptions. -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏙️ AI City Assistant
-> LangChain · Groq · Tavily · Streamlit
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
+![Tavily](https://img.shields.io/badge/Tavily-6366f1?style=flat-square)
 
-A multi-tool AI assistant that answers real-time city queries by combining live weather data and news search into a single conversational interface. Built tool-use patterns from scratch — each tool is independently callable, and the LangChain agent decides which to invoke based on the query. Good example of agentic routing over multiple APIs.
-
-`LangChain` `Groq` `Tavily` `Streamlit` `Tool Use` `Python`
+Multi-tool agentic assistant for real-time city queries. Built tool-use routing from scratch — LangChain agent decides whether to call the weather API or news search based on query intent. Clean example of multi-tool LLM orchestration.
 
 [View Project →](https://github.com/bangarukondabollapally/ai-city-assistant)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 📄 RAG Document Assistant
-> LangChain · HuggingFace Embeddings · ChromaDB · Streamlit
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logoColor=black)
 
-Upload any PDF and ask questions in plain language — the system retrieves semantically relevant chunks using MMR retrieval before passing context to the LLM. This is the most technically layered project in the set: embedding pipeline, vector store, retrieval strategy, and generation are all wired together end-to-end.
-
-`LangChain` `HuggingFace` `ChromaDB` `RAG` `MMR Retrieval` `Streamlit`
+Full RAG pipeline: HuggingFace embeddings → ChromaDB vector store → MMR retrieval → Groq LLM. Ask any PDF questions in plain language. Most technically layered project — end-to-end retrieval + generation.
 
 [View Project →](https://github.com/bangarukondabollapally/rag-document-assistant)
 
----
-
-### ✉️ Smart Email Generator
-> LangChain · Groq (Llama 3.3 70B) · Streamlit
-
-Generates professional emails that adapt tone and structure to the recipient type — HR, manager, peer, or junior. Focused on what you can squeeze out of a well-engineered prompt chain before reaching for RAG or fine-tuning.
-
-`LangChain` `Groq` `Prompt Engineering` `Streamlit`
-
-[View Project →](https://github.com/bangarukondabollapally/smart-email-generator)
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📝 AI Cover Letter Generator
-> LangChain · Groq · Pydantic · Streamlit
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
 
-Generates tailored cover letters from job descriptions. Pydantic handles structured output validation — the LLM response is parsed into typed fields rather than raw text, which makes downstream rendering clean and reliable.
-
-`LangChain` `Groq` `Pydantic` `Structured Output` `Streamlit`
+Generates job-tailored cover letters with structured output validation via Pydantic. LLM response parsed into typed fields — no raw text blobs, no hallucinated formatting.
 
 [View Project →](https://github.com/bangarukondabollapally/ai-cover-letter-generator)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🗓️ AI Task Planner
-> LangChain · Groq · Pydantic · Streamlit
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
 
-Turns a goal or project description into a structured roadmap with prioritized tasks. Uses Pydantic models to enforce consistent output structure — the LLM can't return a freeform blob, it has to conform to a schema.
-
-`LangChain` `Groq` `Pydantic` `Roadmap Generation` `Streamlit`
+Converts goal descriptions into structured task roadmaps. Pydantic schema enforcement means the LLM can't return freeform output — every response conforms to a typed model.
 
 [View Project →](https://github.com/bangarukondabollapally/ai-task-planner)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✉️ Smart Email Generator
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
+![Llama](https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=flat-square)
+
+Prompt pipeline that adapts email tone to recipient type — HR, manager, peer, junior. Explores how much utility pure prompt architecture delivers without RAG or fine-tuning.
+
+[View Project →](https://github.com/bangarukondabollapally/smart-email-generator)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔜 Coming Soon
+![Status](https://img.shields.io/badge/Status-In_Progress-6366f1?style=flat-square)
+
+Building a multi-agent research assistant with LangGraph — persistent state, tool calling, and a structured reasoning loop. Goal: show the jump from single-chain to agentic workflows.
+
+*ETA: June 2026*
+
+</td>
+</tr>
+</table>
+
 ---
 
-## What I'm Working On
+## 📊 GitHub Stats
 
-- **RAG from scratch** — building a document Q&A pipeline using FAISS and LangChain to understand retrieval mechanics before reaching for abstractions
-- **LLM Agents** — working through tool use patterns and how to chain decisions across multi-step workflows
-
----
-
-## Open to
-
-Remote AI Engineer internships. I'm most useful on teams building LLM-powered applications, AI tooling, or anything where Python + LangChain is in the stack.
-
-If you're working on something interesting, reach out — I'm quick to pick up new tools and unafraid of hard problems.
-
-📬 **[Mail](mailto:bollapallybangarukonda@gmail.com)**
-💼 **[LinkedIn](https://linkedin.com/in/bangarukondabollapally)**
-
----
+<!-- GITHUB STATS — github-readme-stats.vercel.app (free) -->
+<!-- WHY: Recruiters check this to verify you actually code. Shows commit volume and language distribution. -->
+<!-- HOW: Replace 'bangarukondabollapally' with your username. Theme options: dark, radical, tokyonight, etc. -->
 
 <div align="center">
-<sub>Profile last updated: May 2026</sub>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bangarukondabollapally&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangarukondabollapally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6"/>
+
 </div>
+
+<!-- STREAK STATS — streak-stats.demolab.com (free) -->
+<!-- WHY: Shows consistency. A streak counter signals daily commitment, not sporadic bursts. -->
+<!-- HOW: streak-stats.demolab.com — customize colors to match your theme -->
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bangarukondabollapally&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=a78bfa&currStreakLabel=6366f1&dates=8b8b8b)](https://git.io/streak-stats)
+
+</div>
+
+<!-- GITHUB TROPHIES — github-profile-trophy.vercel.app (free) -->
+<!-- WHY: Visual credibility. Fills whitespace. Recruiter-friendly if your stats are decent. -->
+<!-- AVOID if you have very few commits — it will highlight thin activity instead of hiding it. -->
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bangarukondabollapally&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<!-- ACTIVITY GRAPH — github-readme-activity-graph.vercel.app (free) -->
+<!-- WHY: Shows your commit pattern visually. A rising graph = active developer. -->
+<!-- HOW: github-readme-activity-graph.vercel.app — pick theme 'tokyo-night' to match -->
+
+<div align="center">
+
+[![Bangaru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bangarukondabollapally&bg_color=0d1117&color=6366f1&line=8b5cf6&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+- 🔍 **RAG from scratch** — FAISS + LangChain document Q&A pipeline, understanding retrieval mechanics before reaching for abstractions
+- 🤖 **LLM Agents** — tool use patterns and multi-step decision workflows with LangGraph
+- 📊 **LangSmith** — tracing and evaluating LLM pipelines properly, not just "does it work"
+
+---
+
+## 🤝 Open to Opportunities
+
+Remote AI Engineer internships. Most useful on teams building LLM-powered applications, AI tooling, or anything where Python + LangChain is in the stack.
+
+If you're working on something interesting — reach out. I'm quick to pick up new tools and unafraid of hard problems.
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bollapallybangarukonda@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bangarukondabollapally)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://bangarukondabollapally.github.io)
+
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6&height=100&section=footer)
