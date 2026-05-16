@@ -34,11 +34,11 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 
 ## 🛠️ Tech & Tools
 
-**AI / ML Stack**
+**AI Stack**
 
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 
-`LangChain` `Groq API` `Pydantic` `HuggingFace` `ChromaDB` `FAISS` `Streamlit` `scikit-learn`
+`LangChain` `Groq API` `Pydantic` `HuggingFace` `ChromaDB` `FAISS` `Streamlit`
 
 **AI Tools I Use**
 
@@ -53,9 +53,8 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 
 **Currently Learning**
 
-![RAG](https://img.shields.io/badge/RAG_Pipelines-in_progress-6366f1?style=flat-square)
-![Agents](https://img.shields.io/badge/LLM_Agents-in_progress-8b5cf6?style=flat-square)
-![Vector DBs](https://img.shields.io/badge/Vector_Databases-in_progress-a78bfa?style=flat-square)
+![RAG](https://img.shields.io/badge/AI_Agents-in_progress-6366f1?style=flat-square)
+![Agents](https://img.shields.io/badge/Multi_Agent_System-in_progress-8b5cf6?style=flat-square)
 
 **Web Basics**
 
@@ -139,7 +138,7 @@ Prompt pipeline that adapts email tone to recipient type — HR, manager, peer, 
 </td>
 <td width="50%" valign="top">
 
-### 🔜 Coming Soon
+### 🔜 Multi Agent System
 ![Status](https://img.shields.io/badge/Status-In_Progress-6366f1?style=flat-square)
 
 Building a multi-agent research assistant with LangGraph — persistent state, tool calling, and a structured reasoning loop. Goal: show the jump from single-chain to agentic workflows.
