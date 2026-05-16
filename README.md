@@ -32,28 +32,23 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 
 ---
 
-## 🛠️ Tech & Tools
-
-<!-- SKILL ICONS — skillicons.dev (free) -->
-<!-- WHY: Visual skill icons are scannable in 2 seconds. Way better than text lists. -->
-<!-- HOW: Go to https://skillicons.dev and pick your icons -->
+## Tech & Tools
 
 **AI / ML Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 
-`LangChain` `LangGraph` `Groq API` `Pydantic` `HuggingFace` `ChromaDB` `FAISS` `Streamlit` `scikit-learn`
+`LangChain` `Groq API` `Pydantic` `HuggingFace` `ChromaDB` `FAISS` `Streamlit` `scikit-learn`
 
 **Languages & Frameworks**
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 **Currently Learning**
 
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-in_progress-6366f1?style=flat-square)
 ![Agents](https://img.shields.io/badge/LLM_Agents-in_progress-8b5cf6?style=flat-square)
-![LangSmith](https://img.shields.io/badge/LangSmith-exploring-a78bfa?style=flat-square)
-![Vector DBs](https://img.shields.io/badge/Vector_Databases-in_progress-c4b5fd?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector_Databases-in_progress-a78bfa?style=flat-square)
 
 ---
 
@@ -199,8 +194,7 @@ Building a multi-agent research assistant with LangGraph — persistent state, t
 ## 🎯 What I'm Working On
 
 - 🔍 **RAG from scratch** — FAISS + LangChain document Q&A pipeline, understanding retrieval mechanics before reaching for abstractions
-- 🤖 **LLM Agents** — tool use patterns and multi-step decision workflows with LangGraph
-- 📊 **LangSmith** — tracing and evaluating LLM pipelines properly, not just "does it work"
+- 🤖 **LLM Agents** — tool use patterns and how to chain decisions across multi-step workflows with LangChain
 
 ---
 
