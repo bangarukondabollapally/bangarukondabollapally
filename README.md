@@ -95,6 +95,7 @@ Full RAG pipeline: HuggingFace embeddings → ChromaDB → MMR retrieval → Gro
 ### 🏙️ AI City Assistant
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Tavily](https://img.shields.io/badge/Tavily-6366f1?style=flat-square)
+![OpenWeather](https://img.shields.io/badge/OpenWeather-6366f1?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
 
 Multi-tool agentic assistant for real-time city queries. LangChain agent routes between weather API and news search based on query intent — built tool-use routing from scratch.
