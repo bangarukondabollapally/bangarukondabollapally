@@ -186,7 +186,7 @@ If you're working on something interesting — reach out. I'm quick to pick up n
 
 [![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bollapallybangarukonda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bangarukondabollapally)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://bangarukondabollapally.github.io)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bangarukonda.vercel.app/)
 
 </div>
 
