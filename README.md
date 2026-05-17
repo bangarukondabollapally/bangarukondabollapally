@@ -38,18 +38,17 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 
-`LangChain` `Groq API` `Pydantic` `HuggingFace` `ChromaDB` `FAISS` `Streamlit`
+`LangChain` `Groq API` `Pydantic` `HuggingFace` `ChromaDB` `Streamlit`
 
 **AI Tools I Use**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
 
 **Languages & Dev Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,notion&theme=dark)](https://skillicons.dev)
 
 **Currently Learning**
 
@@ -60,37 +59,31 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 
 [![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 ---
-
 ## 🚀 Featured Projects
-
-<!-- PROJECT CARDS LAYOUT -->
-<!-- WHY: Each card has a clear stack, what it does, and what's technically interesting. -->
-<!-- No two projects sound the same — recruiters notice when you copy-paste descriptions. -->
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏙️ AI City Assistant
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🔜 Multi-Agent Research Assistant *(In Progress)*
+![Status](https://img.shields.io/badge/Status-Building-6366f1?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LCEL](https://img.shields.io/badge/LCEL-8b5cf6?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
-![Tavily](https://img.shields.io/badge/Tavily-6366f1?style=flat-square)
 
-Multi-tool agentic assistant for real-time city queries. Built tool-use routing from scratch — LangChain agent decides whether to call the weather API or news search based on query intent. Clean example of multi-tool LLM orchestration.
+Multi-agent pipeline built on LCEL — agents collaborate across a structured reasoning loop with tool calling. Exploring how to coordinate multiple LLM agents without a full orchestration framework.
 
-[View Project →](https://github.com/bangarukondabollapally/ai-city-assistant)
+*ETA: June 2026*
 
 </td>
 <td width="50%" valign="top">
 
 ### 📄 RAG Document Assistant
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logoColor=black)
 
-Full RAG pipeline: HuggingFace embeddings → ChromaDB vector store → MMR retrieval → Groq LLM. Ask any PDF questions in plain language. Most technically layered project — end-to-end retrieval + generation.
+Full RAG pipeline: HuggingFace embeddings → ChromaDB → MMR retrieval → Groq LLM. Most technically layered project — end-to-end retrieval and generation wired together.
 
 [View Project →](https://github.com/bangarukondabollapally/rag-document-assistant)
 
@@ -99,51 +92,52 @@ Full RAG pipeline: HuggingFace embeddings → ChromaDB vector store → MMR retr
 <tr>
 <td width="50%" valign="top">
 
-### 📝 AI Cover Letter Generator
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🏙️ AI City Assistant
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+![Tavily](https://img.shields.io/badge/Tavily-6366f1?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
 
-Generates job-tailored cover letters with structured output validation via Pydantic. LLM response parsed into typed fields — no raw text blobs, no hallucinated formatting.
+Multi-tool agentic assistant for real-time city queries. LangChain agent routes between weather API and news search based on query intent — built tool-use routing from scratch.
 
-[View Project →](https://github.com/bangarukondabollapally/ai-cover-letter-generator)
+[View Project →](https://github.com/bangarukondabollapally/ai-city-assistant)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗓️ AI Task Planner
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 📝 AI Cover Letter Generator
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
 
-Converts goal descriptions into structured task roadmaps. Pydantic schema enforcement means the LLM can't return freeform output — every response conforms to a typed model.
+Job-tailored cover letters with Pydantic structured output validation — LLM responses parsed into typed fields, not raw text blobs.
 
-[View Project →](https://github.com/bangarukondabollapally/ai-task-planner)
+[View Project →](https://github.com/bangarukondabollapally/ai-cover-letter-generator)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ✉️ Smart Email Generator
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🗓️ AI Task Planner
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
-![Llama](https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=flat-square)
 
-Prompt pipeline that adapts email tone to recipient type — HR, manager, peer, junior. Explores how much utility pure prompt architecture delivers without RAG or fine-tuning.
+Goal → structured roadmap via Pydantic schema enforcement. LLM output conforms to a typed model — no freeform responses.
 
-[View Project →](https://github.com/bangarukondabollapally/smart-email-generator)
+[View Project →](https://github.com/bangarukondabollapally/ai-task-planner)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔜 Multi Agent System
-![Status](https://img.shields.io/badge/Status-In_Progress-6366f1?style=flat-square)
+### ✉️ Smart Email Generator
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
+![Llama](https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=flat-square)
 
-Building a multi-agent research assistant with LangGraph — persistent state, tool calling, and a structured reasoning loop. Goal: show the jump from single-chain to agentic workflows.
+Adapts email tone and structure per recipient type. Pure prompt architecture — exploring the ceiling of what focused prompt engineering delivers without RAG.
 
-*ETA: June 2026*
+[View Project →](https://github.com/bangarukondabollapally/smart-email-generator)
 
 </td>
 </tr>
@@ -176,8 +170,8 @@ Building a multi-agent research assistant with LangGraph — persistent state, t
 
 ## 🎯 What I'm Working On
 
-- 🔍 **RAG from scratch** — FAISS + LangChain document Q&A pipeline, understanding retrieval mechanics before reaching for abstractions
-- 🤖 **LLM Agents** — tool use patterns and how to chain decisions across multi-step workflows with LangChain
+- 🤖 **LCEL Agents** — building multi-agent pipelines using LangChain Expression Language, working through tool calling and agent coordination
+- 🔍 **RAG pipelines** — going deeper on retrieval strategies, chunking, and embedding tradeoffs
 
 ---
 
