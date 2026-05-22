@@ -153,6 +153,9 @@ Adapts email tone and structure per recipient type. Pure prompt architecture —
 <img src="https://streak-stats.demolab.com?user=bangarukondabollapally&theme=tokyonight&hide_border=true&stroke=6366f1&ring=8b5cf6&fire=a78bfa&currStreakLabel=6366f1"/>
 
 </div>
+
+---
+
 ---
 
 ## 📈 Contribution Activity
