@@ -1,19 +1,11 @@
 <div align="center">
 
-<!-- ANIMATED HEADER — capsule-render.vercel.app (free) -->
-<!-- WHY: First thing recruiters see. Static headers look amateur. This adds instant visual polish. -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6&height=200&section=header&text=Hey,%20I'm%20Bangaru%20Konda%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20with%20LLMs%20—%20one%20prompt,%20one%20chain,%20one%20agent%20at%20a%20time.&descAlignY=58&descSize=16)
 
-<!-- TYPING ANIMATION — readme-typing-svg.demolab.com (free) -->
-<!-- WHY: Shows multiple roles without cluttering the header. Recruiters notice it immediately. -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+LLM+Applications;LangChain+%7C+RAG+%7C+Agents;Building+real+things+with+real+models;Open+to+Remote+AI+Internships+🚀)](https://git.io/typing-svg)
 
-<!-- VISITOR COUNTER — komarev.com (free) -->
-<!-- WHY: Shows profile is active. Low-effort credibility signal. -->
 ![Profile Views](https://komarev.com/ghpvc/?username=bangarukondabollapally&color=6366f1&style=flat&label=Profile+Views)
 
-<!-- SOCIAL BADGES — shields.io (free) -->
-<!-- WHY: Clean, clickable, professional. Better than plain links. -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bangarukondabollapally)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bangarukonda.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bollapallybangarukonda@gmail.com)
@@ -50,32 +42,16 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 
 [![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,notion&theme=dark)](https://skillicons.dev)
 
-**Currently Learning**
-
-![RAG](https://img.shields.io/badge/AI_Agents-in_progress-6366f1?style=flat-square)
-![Agents](https://img.shields.io/badge/Multi_Agent_System-in_progress-8b5cf6?style=flat-square)
-
 **Web Basics**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+
 ---
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔜 Multi-Agent Research Assistant *(In Progress)*
-![Status](https://img.shields.io/badge/Status-Building-6366f1?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LCEL](https://img.shields.io/badge/LCEL-8b5cf6?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
-
-Multi-agent pipeline built on LCEL — agents collaborate across a structured reasoning loop with tool calling. Exploring how to coordinate multiple LLM agents without a full orchestration framework.
-
-*ETA: June 2026*
-
-</td>
 <td width="50%" valign="top">
 
 ### 📄 RAG Document Assistant
@@ -88,8 +64,6 @@ Full RAG pipeline: HuggingFace embeddings → ChromaDB → MMR retrieval → Gro
 [View Project →](https://github.com/bangarukondabollapally/rag-document-assistant)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏙️ AI City Assistant
@@ -103,6 +77,8 @@ Multi-tool agentic assistant for real-time city queries. LangChain agent routes 
 [View Project →](https://github.com/bangarukondabollapally/ai-city-assistant)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📝 AI Cover Letter Generator
@@ -115,8 +91,6 @@ Job-tailored cover letters with Pydantic structured output validation — LLM re
 [View Project →](https://github.com/bangarukondabollapally/ai-cover-letter-generator)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🗓️ AI Task Planner
@@ -129,6 +103,8 @@ Goal → structured roadmap via Pydantic schema enforcement. LLM output conforms
 [View Project →](https://github.com/bangarukondabollapally/ai-task-planner)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ✉️ Smart Email Generator
@@ -141,41 +117,19 @@ Adapts email tone and structure per recipient type. Pure prompt architecture —
 [View Project →](https://github.com/bangarukondabollapally/smart-email-generator)
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bangarukondabollapally&theme=tokyonight&hide_border=true&stroke=6366f1&ring=8b5cf6&fire=a78bfa&currStreakLabel=6366f1"/>
-
-</div>
-
----
-
----
-
 ## 📈 Contribution Activity
-
-<!-- ACTIVITY GRAPH — github-readme-activity-graph.vercel.app (free) -->
-<!-- WHY: Shows your commit pattern visually. A rising graph = active developer. -->
-<!-- HOW: github-readme-activity-graph.vercel.app — pick theme 'tokyo-night' to match -->
 
 <div align="center">
 
 [![Bangaru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bangarukondabollapally&bg_color=0d1117&color=6366f1&line=8b5cf6&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🎯 What I'm Working On
-
-- 🤖 **LCEL Agents** — building multi-agent pipelines using LangChain Expression Language, working through tool calling and agent coordination
-- 🔍 **RAG pipelines** — going deeper on retrieval strategies, chunking, and embedding tradeoffs
 
 ---
 
@@ -195,5 +149,4 @@ If you're working on something interesting — reach out. I'm quick to pick up n
 
 ---
 
-<!-- FOOTER WAVE -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6&height=100&section=footer)
