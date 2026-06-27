@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6&height=200&section=header&text=Hey,%20I'm%20Bangaru%20Konda%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20with%20LLMs%20—%20one%20prompt,%20one%20chain,%20one%20agent%20at%20a%20time.&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6&height=200&section=header&text=Hey,%20I'm%20Bangaru%20Konda%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Frontend%20Engineer%20%C2%B7%20Building%20AI-powered%20web%20apps%20where%20UI%20and%20intelligence%20meet&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+LLM+Applications;LangChain+%7C+RAG+%7C+Agents;Building+real+things+with+real+models;Open+to+Remote+AI+Internships+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+%2B+AI+Engineer;HTML+%7C+CSS+%7C+JavaScript+%7C+Responsive+Design;LangChain+%7C+RAG+%7C+Agents;Building+AI-powered+web+applications)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bangarukondabollapally&color=6366f1&style=flat&label=Profile+Views)
 
@@ -16,35 +16,34 @@
 
 ## 🧠 About
 
-I'm an AI engineering student focused on building real, working applications powered by LLMs — not just notebook experiments. My work sits at the intersection of language models, practical tooling, and clean Python.
+I build AI-powered web applications that combine LLM systems with clean, responsive frontend interfaces.
 
-Right now I'm going deep on LangChain, prompt engineering, and how to make LLMs actually useful in production contexts. I learn by building and shipping.
+I work with semantic HTML, modern CSS, Flexbox, CSS Grid, and responsive design to build accessible layouts across devices. Alongside this, I develop LLM-based systems using tools like LangChain, RAG pipelines, and agentic workflows.
 
-Currently looking for a **remote AI Engineer internship** where I can contribute to meaningful work and grow fast alongside a strong team.
+I learn by building - turning LLM systems and UI design into usable products, not isolated experiments.
+
+Currently looking for opportunities where frontend and AI intersect - building products where both the user experience and the intelligence layer matter equally.
 
 ---
 
 ## 🛠️ Tech & Tools
 
-**AI Stack**
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
+
+`Responsive Design` `Flexbox` `CSS Grid` `Semantic HTML`
+
+**AI / Backend**
 
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 
-`LangChain` `Groq API` `Pydantic` `HuggingFace` `ChromaDB` `Streamlit`
+`LangChain` `RAG` `Groq API` `Pydantic` `HuggingFace` `ChromaDB` `Agentic Workflows`
 
-**AI Tools I Use**
+**Tools**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion&theme=dark)](https://skillicons.dev)
 
-**Languages & Dev Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,notion&theme=dark)](https://skillicons.dev)
-
-**Web Basics**
-
-[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -54,67 +53,68 @@ Currently looking for a **remote AI Engineer internship** where I can contribute
 <tr>
 <td width="50%" valign="top">
 
-### 📄 RAG Document Assistant
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logoColor=black)
+###  Testimonial Grid
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Full RAG pipeline: HuggingFace embeddings → ChromaDB → MMR retrieval → Groq LLM. Most technically layered project — end-to-end retrieval and generation wired together.
+Multi-column testimonial layout built with CSS Grid - asymmetric card
+sizing, responsive breakpoints, and pixel-accurate implementation from
+a professional design file.
 
-[View Project →](https://github.com/bangarukondabollapally/rag-document-assistant)
+[View Project →](https://github.com/bangarukondabollapally/testimonial-grid)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏙️ AI City Assistant
+###  Four Card Feature Section
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+Responsive feature section using CSS Grid - card alignment across
+breakpoints, mobile-first layout, clean semantic structure.
+
+[View Project →](https://github.com/bangarukondabollapally/four-card-feature-section)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+###  Product Preview Card
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+Responsive product card with image-text split layout using Flexbox -
+adapts cleanly from mobile to desktop with semantic HTML structure.
+
+[View Project →](https://github.com/bangarukondabollapally/product-preview-card)
+
+</td>
+<td width="50%" valign="top">
+
+###  RAG Document Assistant
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logoColor=black)
+
+Full RAG pipeline: HuggingFace embeddings → ChromaDB → MMR retrieval → Groq LLM. End-to-end retrieval and generation wired together.
+
+[View Project →](https://github.com/bangarukondabollapally/rag-document-assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+###  AI City Assistant
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Tavily](https://img.shields.io/badge/Tavily-6366f1?style=flat-square)
 ![OpenWeather](https://img.shields.io/badge/OpenWeather-6366f1?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
 
-Multi-tool agentic assistant for real-time city queries. LangChain agent routes between weather API and news search based on query intent — built tool-use routing from scratch.
+Multi-tool agentic assistant for real-time city queries. LangChain agent routes between weather API and news search based on query intent - tool-use routing built from scratch.
 
 [View Project →](https://github.com/bangarukondabollapally/ai-city-assistant)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 AI Cover Letter Generator
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
-
-Job-tailored cover letters with Pydantic structured output validation — LLM responses parsed into typed fields, not raw text blobs.
-
-[View Project →](https://github.com/bangarukondabollapally/ai-cover-letter-generator)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗓️ AI Task Planner
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
-
-Goal → structured roadmap via Pydantic schema enforcement. LLM output conforms to a typed model — no freeform responses.
-
-[View Project →](https://github.com/bangarukondabollapally/ai-task-planner)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✉️ Smart Email Generator
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-FF4B4B?style=flat-square)
-![Llama](https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=flat-square)
-
-Adapts email tone and structure per recipient type. Pure prompt architecture — exploring the ceiling of what focused prompt engineering delivers without RAG.
-
-[View Project →](https://github.com/bangarukondabollapally/smart-email-generator)
 
 </td>
 <td width="50%" valign="top"></td>
@@ -134,11 +134,8 @@ Adapts email tone and structure per recipient type. Pure prompt architecture —
 ---
 
 ## 🤝 Open to Opportunities
-
-Remote AI Engineer internships. Most useful on teams building LLM-powered applications, AI tooling, or anything where Python + LangChain is in the stack.
-
-If you're working on something interesting — reach out. I'm quick to pick up new tools and unafraid of hard problems.
-
+Frontend & AI Engineer building AI-powered web applications where interface
+and intelligence work together as one product layer. Reach out via LinkedIn or email below.
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bollapallybangarukonda@gmail.com)
