@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+workflows/
+
+source-photo.jpeg
+source-prepped.png
