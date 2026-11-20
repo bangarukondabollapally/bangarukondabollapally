@@ -232,7 +232,7 @@ def activity(data):
         body.append(f'<rect class="g" style="animation-delay:{.3 + i * .05:.2f}s" x="{x:.1f}" y="{base - bh:.1f}" width="{bw}" height="{bh:.1f}" rx="4" fill="{fill}"/>')
         body.append(f'<text class="f" {d(.5 + i * .05)} x="{x + bw / 2:.1f}" y="{base + 20}" text-anchor="middle" font-family="{MONO}" font-size="{LABEL}" fill="{MUTED}">{mnames[int(k[5:]) - 1]}</text>')
         if i == best:
-            body.append(f'<text class="f" {d(1.0)} x="{x + bw / 2:.1f}" y="{base - bh - 8:.1f}" text-anchor="middle" font-family="{MONO}" font-size="{LABEL}" fill="{BLUE}">{v:,}</text>')
+            body.append(f'<text class="f" {d(1.0)} x="{x + bw / 2:.1f}" y="{base - bh - 8:.1f}" text-anchor="middle" font-family="{MONO}" font-size="{LABEL}" fill="{MONO}">{v:,}</text>')
     stats = [
         (f'{data["current_streak"]}', "day" if data["current_streak"] == 1 else "days", "current streak", False),
         (f'{data["active_days"]}', f'/ {data["span_days"]}', "days with a commit", True),
