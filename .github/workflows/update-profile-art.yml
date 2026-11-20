@@ -1,12 +1,15 @@
 name: Update profile art
 on:
   schedule:
-    - cron: "30 1 * * *"
+    - cron: "17 */3 * * *"  # every 3 hours, so the cards trail GitHub by hours, not a day
   workflow_dispatch:
   push:
-    paths: ["scripts/**", "fonts/**"]
+    paths: ["scripts/**", "fonts/**", ".github/workflows/update-profile-art.yml"]
 permissions:
   contents: write
+concurrency:
+  group: profile-art
+  cancel-in-progress: false
 jobs:
   render:
     runs-on: ubuntu-latest
@@ -20,5 +23,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add cards data
-          git diff --cached --quiet || git commit -m "chore: refresh profile cards"
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh profile cards"
+          git pull --rebase -X theirs origin main  # a push may have landed while this ran
           git push
